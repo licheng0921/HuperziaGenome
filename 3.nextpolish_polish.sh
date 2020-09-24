@@ -1,0 +1,1 @@
+/vol1/agis/wangli_group/licheng/biosoft/NextPolish/nextPolish nextPolish_run.cfg
