@@ -1,0 +1,1 @@
+busco --offline -i /vol3/agis/wangli_group/licheng/huperzia_denovo/flye/40-flyePolish/nextpolish/01_rundir/genome.nextpolish.fasta -l /vol3/agis/wangli_group/licheng/database/busco/viridiplantae_odb10 -o busco -m geno --cpu 20
